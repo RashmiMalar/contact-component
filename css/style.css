@@ -3,14 +3,16 @@ body {
 }
 
 .contact-title {
-  background-color: #b8ff3f;
-  font-weight: bold;
+  background-color: #C0FF61;
+  font-weight: 700;
   font-size: 1.5rem;
+  color: #000;
 }
 
 .contact-subtext {
   font-size: 1rem;
-  color: #333333;
+  color: #333;
+  max-width: 400px;
 }
 
 .contact-form-box {
